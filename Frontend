@@ -1,0 +1,3 @@
+npx create-expo-app travel-app
+cd travel-app
+npm install axios react-navigation react-navigation-stack
