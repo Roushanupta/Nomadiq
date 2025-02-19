@@ -1,0 +1,11 @@
+install dependency 
+mkdir ai-travel-app && cd ai-travel-app
+npm init -y
+npm install express cors dotenv openai pg prisma @prisma/client
+
+initilize prisma
+npx prisma init
+
+configure.env
+DATABASE_URL="postgresql://user:password@localhost:5432/travel_app"
+OPENAI_API_KEY="your_openai_api_key"
