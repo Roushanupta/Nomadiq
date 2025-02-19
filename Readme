@@ -1,0 +1,17 @@
+Features & Next Steps
+
+Current Features
+
+travel itineraries
+Save trips to PostgreSQL database
+Cross-platform mobile app with React Native
+
+Next Steps
+
+User Authentication: Add JWT-based login
+
+Hotel & Flight Integration: Use APIs like Skyscanner or Booking.com
+
+Maps & Navigation: Integrate Google Maps
+
+Offline Mode: Cache itineraries
